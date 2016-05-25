@@ -1,0 +1,16 @@
+== README
+Project Status
+
+Phase 2: Startup & GitHub Connect
+-used scaffold commads to create: Contollers; page, cart, and product pages
+-started work on Authentication and creation of User class
+-installed 'devise' gem
+-establish connection to github
+-estabilsh connection to heroku
+
+#push phase2 to hithub & heroku
+
+
+
+
+
