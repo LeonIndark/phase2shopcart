@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 #Custom Gem Imports
 
 gem 'devise'
-
+gem 'pg'
 #------------------
 
 
@@ -51,3 +51,7 @@ group :development do
   gem 'spring'
 end
 
+group :production do
+  gem 'pg'
+  gem 'devise'
+end
